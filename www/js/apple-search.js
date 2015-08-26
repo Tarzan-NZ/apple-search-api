@@ -57,6 +57,7 @@ $(document).ready(function(){
 						case 'feature-movie':
 							var preview = $('<video controls preload="none" src="'+product.previewUrl+'">');
 						break;
+						
 					}
 
 					// Add the preview to the div
